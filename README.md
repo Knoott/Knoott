@@ -1,5 +1,5 @@
-#Czesc 👋
+# Czesc 👋
 
 
-**Jestem Knot, JavaScript i Java developer. Właściciel i DEV serwera minecraft HogMC.
+**Jestem Knot, programuje w języku JavaScript i Java. Właściciel i DEV serwera minecraft HogMC.**
 

@@ -1,11 +1,11 @@
 # Cześć 👋
 
-### Jestem Knot, programuje w języku JavaScript i Java. Właściciel i DEV serwera minecraft HogMC
+### Jestem Knot, programuje w języku C++ i JS. 
 
 
 
 ## Mój discord:
-#### Knot#0001 (787977573929713704)
+#### Knot#2480 (787977573929713704)
 
 ## Moje statystyki:
 
@@ -14,5 +14,5 @@
 
 ## Moje narzędzia i języki
 
-#### IntelliJ IDEA, Visual Studio Code, Visual Studio, Notepad++ | Java, JavaScript, C++
+#### IntelliJ IDEA, Visual Studio Code, Visual Studio | Java, JavaScript, C++
 
